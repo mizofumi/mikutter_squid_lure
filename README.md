@@ -6,4 +6,4 @@
 mikutter_squid_lure.rb に設定項目があります
 
 ##Install
-	git clone https://github.com/mizofumi0411/mikutter_squid_lure.git ~/.mikutter/plugin/
+	git clone https://github.com/mizofumi0411/mikutter_squid_lure.git ~/.mikutter/plugin/mikutter_squid_lure
